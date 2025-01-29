@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Enzo Cece
 
-# Your Github username
+# GwiboGlagbo
